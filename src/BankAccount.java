@@ -6,4 +6,5 @@ public class {
     double deposit();
     double withdraw();
     double checkBalance();
+    double calculateInterest();
 }
